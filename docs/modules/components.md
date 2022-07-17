@@ -4,8 +4,8 @@ sidebar_position: 5
 
 # Components
 
-Components are processor for a specific integration platform (Camel, NiFi). The Camel components 
-can also run in Assimbly runtime.
+A components processes a data message (sometimes also called a service or a processor). A component is mostly implemented for a specific integration platform (Camel, NiFi). The Camel components 
+can also run in [Assimbly runtime](/docs/modules/runtime).
 
 ## Apache Nifi processors
 
